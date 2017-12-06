@@ -1,2 +1,3 @@
 # hello-world by kilter-zhao
-GitHub Hello-world
+Hello-world
+remove GitHub
